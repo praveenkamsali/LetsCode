@@ -3,7 +3,7 @@ package Arrays;
 public class CompressString {
 
     public static void main(String[] args){
-        System.out.print(compressString("AAABBCDDDPP"));
+        System.out.print(compressString("AAABBCDDDPPS"));
     }
 
     private static String compressString(String str) {

@@ -1,8 +1,5 @@
 package Arrays;
 
-/**
- * Created by praveenkamsali on 10/23/17.
- */
 public class OneAwayCharacter {
     public static void main(String[] args){
         System.out.print(checkOneAway("pale","palee"));

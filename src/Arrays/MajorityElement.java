@@ -9,7 +9,7 @@ You may assume that the array is non-empty and the majority element always exist
 
 /**
  * Boyer-Moore algorithm **/
-
+//TODO : how is it working.
 public class MajorityElement {
     public static void main(String[] args){
         int[] nums = {3,2,3,2,2};
